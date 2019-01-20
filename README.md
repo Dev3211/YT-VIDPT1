@@ -1,4 +1,4 @@
-# YT-VIDPT1
+# YT-VID-1
 
 This code serves as an example for the video I made on how you can use a class in Node.js, link:
 
